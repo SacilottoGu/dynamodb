@@ -1,0 +1,34 @@
+{
+    "Música" : [
+        {
+            "PutRequest" : {
+                "Item" : {
+                  "Artista" : { "S" : " Metallica " },
+                  "SongTitle" : { "S" : " Fight Fire with Fire " },
+                  "AlbumTitle" : { "S" : " Ride the Lightning " },
+                  "SongYear" : { "S" : " 1984" }
+                }
+            }
+        },
+        {
+            "PutRequest" : {
+                "Item" : {
+                  "Artista" : { "S" : " Metallica  " },
+                  "SongTitle" : { "S" : " Damage, Inc " },
+                  "AlbumTitle" : { "S" : " Master of Puppets " },
+                  "SongYear" : { "S" : " 1986" }
+                }
+            }
+        },
+        {
+            "PutRequest" : {
+                "Item" : {
+                  "Artista" : { "S" : " Metallica   " },
+                  "SongTitle" : { "S" : " One " },
+                  "AlbumTitle" : { "S" : " And Justice for All " },
+                  "SongYear" : { "S" : " 1988" }
+                }
+            }
+        }
+      ]
+}

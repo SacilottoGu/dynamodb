@@ -1,0 +1,6 @@
+{
+  "Artista" : { "S" : " Metallica " },
+   "SongTitle" : { "S" : " Fight Fire with Fire " },
+   "AlbumTitle" : { "S" : " Ride the Lightning " },
+   "SongYear" : { "S" : " 1984" }
+}
